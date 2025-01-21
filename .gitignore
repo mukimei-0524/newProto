@@ -30,3 +30,22 @@
 *.exe
 *.out
 *.app
+
+# ビルド生成ファイル
+*.obj
+*.exe
+*.ilk
+*.pdb
+*.idb
+Debug/
+Release/
+
+# Visual Studio関連
+.vs/
+*.vcxproj.user
+*.suo
+*.ipch
+
+# 一時ファイル
+*.log
+*.tmp
